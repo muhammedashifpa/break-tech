@@ -45,17 +45,18 @@ Some of our partners include:
                     <!-- /.col-lg-6 -->
                     <div class="col-lg-6">
                       <div class="about-one__box">
+
                         <h4>
-                          Micro Finance Bank
+                         Microfinance Support Centre
                         </h4>
                       </div>
                       <!-- /.about-one__box -->
                     </div>
                     <div class="col-lg-6">
                       <div class="about-one__box">
+                        <img src="<?= base_url('assets/images/kwologo.png'); ?>" alt=""/>
                         <h4>
                           Kwo Organic Foods Ltd
-
                         </h4>
                       </div>
                       <!-- /.about-one__box -->

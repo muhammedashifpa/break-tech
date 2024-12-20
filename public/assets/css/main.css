@@ -7075,6 +7075,11 @@ h6 {
   align-items: center;
   margin-top: 20px;
 }
+.about-one__box img {
+  width: 50px;
+  height: auto;
+  margin-right: 20px;
+}
 
 @media (min-width: 1200px) {
   .about-one__box {
